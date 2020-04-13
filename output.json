@@ -1,0 +1,4846 @@
+{
+  "12/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "198",
+      "mortes": "16"
+    },
+    "PINDORAMA": {
+      "name": "PINDORAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ÁGUAS DE SÃO PEDRO": {
+      "name": "ÁGUAS DE SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PIRACICABA": {
+      "name": "PIRACICABA",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "IBIRÁ": {
+      "name": "IBIRÁ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PIRAJUÍ": {
+      "name": "PIRAJUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "IBIÚNA": {
+      "name": "IBIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "AMÉRICO BRASILIENSE": {
+      "name": "AMÉRICO BRASILIENSE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ILHA COMPRIDA": {
+      "name": "ILHA COMPRIDA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "PORTO FERREIRA": {
+      "name": "PORTO FERREIRA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "AMPARO": {
+      "name": "AMPARO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ILHABELA": {
+      "name": "ILHABELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRAIA GRANDE": {
+      "name": "PRAIA GRANDE",
+      "confirmados": "17",
+      "mortes": "2"
+    },
+    "ARAÇARIGUAMA": {
+      "name": "ARAÇARIGUAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "PRESIDENTE PRUDENTE": {
+      "name": "PRESIDENTE PRUDENTE",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "14",
+      "mortes": "-"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRESIDENTE VENCESLAU": {
+      "name": "PRESIDENTE VENCESLAU",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "ARAÇOIABA DA SERRA": {
+      "name": "ARAÇOIABA DA SERRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "27",
+      "mortes": "1"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "16",
+      "mortes": "-"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "43",
+      "mortes": "4"
+    },
+    "ARTUR NOGUEIRA": {
+      "name": "ARTUR NOGUEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAPEVA": {
+      "name": "ITAPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "12",
+      "mortes": "1"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "18",
+      "mortes": "4"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "26",
+      "mortes": "-"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "AVARÉ": {
+      "name": "AVARÉ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BÁRBARA D'OESTE": {
+      "name": "SANTA BÁRBARA D'OESTE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BADY BASSITT": {
+      "name": "BADY BASSITT",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "BARRA DO TURVO": {
+      "name": "BARRA DO TURVO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATINGA": {
+      "name": "ITATINGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "48",
+      "mortes": "2"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA LÚCIA": {
+      "name": "SANTA LÚCIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BATATAIS": {
+      "name": "BATATAIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "33",
+      "mortes": "-"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "JACAREÍ": {
+      "name": "JACAREÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "147",
+      "mortes": "3"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JACI": {
+      "name": "JACI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "166",
+      "mortes": "6"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "179",
+      "mortes": "10"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "JALES": {
+      "name": "JALES",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "67",
+      "mortes": "2"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "15",
+      "mortes": "1"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "26",
+      "mortes": "4"
+    },
+    "JARDINÓPOLIS": {
+      "name": "JARDINÓPOLIS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOÃO DA BOA VISTA": {
+      "name": "SÃO JOÃO DA BOA VISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAÇAPAVA": {
+      "name": "CAÇAPAVA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "JOANÓPOLIS": {
+      "name": "JOANÓPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "44",
+      "mortes": "1"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JOSÉ BONIFÁCIO": {
+      "name": "JOSÉ BONIFÁCIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "85",
+      "mortes": "1"
+    },
+    "CAIABU": {
+      "name": "CAIABU",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "34",
+      "mortes": "4"
+    },
+    "LARANJAL PAULISTA": {
+      "name": "LARANJAL PAULISTA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SÃO MIGUEL ARCANJO": {
+      "name": "SÃO MIGUEL ARCANJO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "5",
+      "mortes": "1"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "6352",
+      "mortes": "445"
+    },
+    "Campinas": {
+      "name": "CAMPINAS",
+      "confirmados": "106",
+      "mortes": "5"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "33",
+      "mortes": "2"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO SEBASTIÃO": {
+      "name": "SÃO SEBASTIÃO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "6",
+      "mortes": "2"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "15",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SERTÃOZINHO": {
+      "name": "SERTÃOZINHO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "62",
+      "mortes": "4"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "45",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "20",
+      "mortes": "2"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "CUBATÃO": {
+      "name": "CUBATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "MOCOCA": {
+      "name": "MOCOCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "33",
+      "mortes": "3"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "63",
+      "mortes": "1"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "58",
+      "mortes": "2"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "73",
+      "mortes": "5"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MOGI GUAÇÚ": {
+      "name": "MOGI GUAÇÚ",
+      "confirmados": "6",
+      "mortes": "1"
+    },
+    "TANABI": {
+      "name": "TANABI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ELDORADO": {
+      "name": "ELDORADO",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "34",
+      "mortes": "2"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "EMBU-GUAÇU": {
+      "name": "EMBU-GUAÇU",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "OLÍMPIA": {
+      "name": "OLÍMPIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ESTIVA GERBI": {
+      "name": "ESTIVA GERBI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TUPÃ": {
+      "name": "TUPÃ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "34",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "129",
+      "mortes": "9"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OURINHOS": {
+      "name": "OURINHOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "3"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "14",
+      "mortes": "1"
+    },
+    "PARIQUERA-AÇU": {
+      "name": "PARIQUERA-AÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "22",
+      "mortes": "2"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PEDRA BELA": {
+      "name": "PEDRA BELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "GUARAREMA": {
+      "name": "GUARAREMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "GUARATINGUETÁ": {
+      "name": "GUARATINGUETÁ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "PINDAMONHANGABA": {
+      "name": "PINDAMONHANGABA",
+      "confirmados": "2",
+      "mortes": "-"
+    }
+  },
+  "11/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "191",
+      "mortes": "16"
+    },
+    "PIRACICABA": {
+      "name": "PIRACICABA",
+      "confirmados": "12",
+      "mortes": "-"
+    },
+    "ÁGUAS DE SÃO PEDRO": {
+      "name": "ÁGUAS DE SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PIRAJUÍ": {
+      "name": "PIRAJUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "IBIRÁ": {
+      "name": "IBIRÁ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "IBIÚNA": {
+      "name": "IBIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PORTO FERREIRA": {
+      "name": "PORTO FERREIRA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "AMÉRICO BRASILIENSE": {
+      "name": "AMÉRICO BRASILIENSE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ILHA COMPRIDA": {
+      "name": "ILHA COMPRIDA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "PRAIA GRANDE": {
+      "name": "PRAIA GRANDE",
+      "confirmados": "16",
+      "mortes": "2"
+    },
+    "AMPARO": {
+      "name": "AMPARO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ILHABELA": {
+      "name": "ILHABELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRESIDENTE PRUDENTE": {
+      "name": "PRESIDENTE PRUDENTE",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "ARAÇARIGUAMA": {
+      "name": "ARAÇARIGUAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "PRESIDENTE VENCESLAU": {
+      "name": "PRESIDENTE VENCESLAU",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "14",
+      "mortes": "-"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARAÇOIABA DA SERRA": {
+      "name": "ARAÇOIABA DA SERRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "16",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "27",
+      "mortes": "1"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "36",
+      "mortes": "4"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "ARTUR NOGUEIRA": {
+      "name": "ARTUR NOGUEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAPEVA": {
+      "name": "ITAPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "11",
+      "mortes": "1"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "17",
+      "mortes": "4"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "25",
+      "mortes": "-"
+    },
+    "SANTA BÁRBARA D'OESTE": {
+      "name": "SANTA BÁRBARA D'OESTE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AVARÉ": {
+      "name": "AVARÉ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "BADY BASSITT": {
+      "name": "BADY BASSITT",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARRA DO TURVO": {
+      "name": "BARRA DO TURVO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATINGA": {
+      "name": "ITATINGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SANTA LÚCIA": {
+      "name": "SANTA LÚCIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "43",
+      "mortes": "2"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "33",
+      "mortes": "-"
+    },
+    "BATATAIS": {
+      "name": "BATATAIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "142",
+      "mortes": "3"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "JACAREÍ": {
+      "name": "JACAREÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "146",
+      "mortes": "6"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JACI": {
+      "name": "JACI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "172",
+      "mortes": "9"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "61",
+      "mortes": "2"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "JALES": {
+      "name": "JALES",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "15",
+      "mortes": "1"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO JOÃO DA BOA VISTA": {
+      "name": "SÃO JOÃO DA BOA VISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "26",
+      "mortes": "4"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JOANÓPOLIS": {
+      "name": "JOANÓPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "40",
+      "mortes": "1"
+    },
+    "CAÇAPAVA": {
+      "name": "CAÇAPAVA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "JOSÉ BONIFÁCIO": {
+      "name": "JOSÉ BONIFÁCIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "85",
+      "mortes": "1"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CAIABU": {
+      "name": "CAIABU",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "LARANJAL PAULISTA": {
+      "name": "LARANJAL PAULISTA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SÃO MIGUEL ARCANJO": {
+      "name": "SÃO MIGUEL ARCANJO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "33",
+      "mortes": "4"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "6131",
+      "mortes": "422"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "5",
+      "mortes": "1"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "100",
+      "mortes": "5"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO SEBASTIÃO": {
+      "name": "SÃO SEBASTIÃO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "31",
+      "mortes": "2"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "14",
+      "mortes": "-"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SERTÃOZINHO": {
+      "name": "SERTÃOZINHO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "43",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "20",
+      "mortes": "2"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "59",
+      "mortes": "4"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MOCOCA": {
+      "name": "MOCOCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "32",
+      "mortes": "3"
+    },
+    "CUBATÃO": {
+      "name": "CUBATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "56",
+      "mortes": "2"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "71",
+      "mortes": "5"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "60",
+      "mortes": "1"
+    },
+    "MOGI GUAÇÚ": {
+      "name": "MOGI GUAÇÚ",
+      "confirmados": "6",
+      "mortes": "1"
+    },
+    "TANABI": {
+      "name": "TANABI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ELDORADO": {
+      "name": "ELDORADO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "34",
+      "mortes": "2"
+    },
+    "OLÍMPIA": {
+      "name": "OLÍMPIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "EMBU-GUAÇU": {
+      "name": "EMBU-GUAÇU",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TUPÃ": {
+      "name": "TUPÃ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ESTIVA GERBI": {
+      "name": "ESTIVA GERBI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "127",
+      "mortes": "8"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "34",
+      "mortes": "-"
+    },
+    "OURINHOS": {
+      "name": "OURINHOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "3"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PARIQUERA-AÇU": {
+      "name": "PARIQUERA-AÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "19",
+      "mortes": "1"
+    },
+    "PEDRA BELA": {
+      "name": "PEDRA BELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "GUARAREMA": {
+      "name": "GUARAREMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "3",
+      "mortes": "-"
+    }
+  },
+  "10/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "ILHA COMPRIDA": {
+      "name": "ILHA COMPRIDA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "ÁGUAS DE SÃO PEDRO": {
+      "name": "ÁGUAS DE SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ILHABELA": {
+      "name": "ILHABELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PORTO FERREIRA": {
+      "name": "PORTO FERREIRA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PRAIA GRANDE": {
+      "name": "PRAIA GRANDE",
+      "confirmados": "14",
+      "mortes": "1"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRESIDENTE PRUDENTE": {
+      "name": "PRESIDENTE PRUDENTE",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "15",
+      "mortes": "-"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PRESIDENTE VENCESLAU": {
+      "name": "PRESIDENTE VENCESLAU",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "ARAÇOIABA DA SERRA": {
+      "name": "ARAÇOIABA DA SERRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "26",
+      "mortes": "1"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "7",
+      "mortes": "1"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "15",
+      "mortes": "-"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITAPEVA": {
+      "name": "ITAPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "36",
+      "mortes": "4"
+    },
+    "ARTUR NOGUEIRA": {
+      "name": "ARTUR NOGUEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "17",
+      "mortes": "4"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "24",
+      "mortes": "-"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "AVARÉ": {
+      "name": "AVARÉ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SANTA BÁRBARA D'OESTE": {
+      "name": "SANTA BÁRBARA D'OESTE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BADY BASSITT": {
+      "name": "BADY BASSITT",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATINGA": {
+      "name": "ITATINGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "BARRA DO TURVO": {
+      "name": "BARRA DO TURVO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "44",
+      "mortes": "2"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "32",
+      "mortes": "-"
+    },
+    "BATATAIS": {
+      "name": "BATATAIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JACAREÍ": {
+      "name": "JACAREÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "139",
+      "mortes": "3"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "11",
+      "mortes": "1"
+    },
+    "JACI": {
+      "name": "JACI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "144",
+      "mortes": "5"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "174",
+      "mortes": "9"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JALES": {
+      "name": "JALES",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "62",
+      "mortes": "1"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "4",
+      "mortes": "2"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "15",
+      "mortes": "1"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOÃO DA BOA VISTA": {
+      "name": "SÃO JOÃO DA BOA VISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "26",
+      "mortes": "4"
+    },
+    "JOANÓPOLIS": {
+      "name": "JOANÓPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JOSÉ BONIFÁCIO": {
+      "name": "JOSÉ BONIFÁCIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "41",
+      "mortes": "1"
+    },
+    "CAÇAPAVA": {
+      "name": "CAÇAPAVA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "12",
+      "mortes": "1"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "85",
+      "mortes": "1"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "LARANJAL PAULISTA": {
+      "name": "LARANJAL PAULISTA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "32",
+      "mortes": "4"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO MIGUEL ARCANJO": {
+      "name": "SÃO MIGUEL ARCANJO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "5",
+      "mortes": "1"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "5982",
+      "mortes": "409"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "100",
+      "mortes": "5"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "29",
+      "mortes": "2"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SÃO SEBASTIÃO": {
+      "name": "SÃO SEBASTIÃO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "14",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "42",
+      "mortes": "-"
+    },
+    "SERTÃOZINHO": {
+      "name": "SERTÃOZINHO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "53",
+      "mortes": "3"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "18",
+      "mortes": "2"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MOCOCA": {
+      "name": "MOCOCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CUBATÃO": {
+      "name": "CUBATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "50",
+      "mortes": "2"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "30",
+      "mortes": "1"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "59",
+      "mortes": "1"
+    },
+    "MOGI GUAÇU": {
+      "name": "MOGI GUAÇU",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "72",
+      "mortes": "5"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "TANABI": {
+      "name": "TANABI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ELDORADO": {
+      "name": "ELDORADO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "33",
+      "mortes": "2"
+    },
+    "OLÍMPIA": {
+      "name": "OLÍMPIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "EMBU-GUAÇU": {
+      "name": "EMBU-GUAÇU",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "35",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "121",
+      "mortes": "8"
+    },
+    "TUPÃ": {
+      "name": "TUPÃ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OURINHOS": {
+      "name": "OURINHOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "12",
+      "mortes": "1"
+    },
+    "PARIQUERA-AÇU": {
+      "name": "PARIQUERA-AÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "3"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "18",
+      "mortes": "1"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PEDRA BELA": {
+      "name": "PEDRA BELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARAREMA": {
+      "name": "GUARAREMA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARATINGUETÁ": {
+      "name": "GUARATINGUETÁ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "PINDAMONHANGABA": {
+      "name": "PINDAMONHANGABA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "178",
+      "mortes": "16"
+    },
+    "PINDORAMA": {
+      "name": "PINDORAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    }
+  },
+  "09/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "ILHA COMPRIDA": {
+      "name": "ILHA COMPRIDA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "PIRAJUÍ": {
+      "name": "PIRAJUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "ILHA BELA": {
+      "name": "ILHA BELA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "7",
+      "mortes": "1"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PRAIA GRANDE": {
+      "name": "PRAIA GRANDE",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRESIDENTE PRUDENTE": {
+      "name": "PRESIDENTE PRUDENTE",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PRESIDENTE VENCESLAU": {
+      "name": "PRESIDENTE VENCESLAU",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "22",
+      "mortes": "1"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARTUR NOGUEIRA": {
+      "name": "ARTUR NOGUEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "15",
+      "mortes": "-"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "ITAPEVA": {
+      "name": "ITAPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "36",
+      "mortes": "4"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "15",
+      "mortes": "3"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "11",
+      "mortes": "-"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "AVARÉ": {
+      "name": "AVARÉ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "24",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "5471",
+      "mortes": "384"
+    },
+    "BADY BASSITT": {
+      "name": "BADY BASSITT",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "BARRA DO TURVO": {
+      "name": "BARRA DO TURVO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITATINGA": {
+      "name": "ITATINGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "42",
+      "mortes": "2"
+    },
+    "ITÚ": {
+      "name": "ITÚ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BATATAIS": {
+      "name": "BATATAIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "10",
+      "mortes": "1"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "31",
+      "mortes": "-"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JACAREÍ": {
+      "name": "JACAREÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "130",
+      "mortes": "3"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JACI": {
+      "name": "JACI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "130",
+      "mortes": "4"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "164",
+      "mortes": "7"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "15",
+      "mortes": "1"
+    },
+    "JALES": {
+      "name": "JALES",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "59",
+      "mortes": "1"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "16",
+      "mortes": "3"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOÃO DA BOA VISTA": {
+      "name": "SÃO JOÃO DA BOA VISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAÇAPAVA": {
+      "name": "CAÇAPAVA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "JOANÓPOLIS": {
+      "name": "JOANÓPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JOSÉ BONIFACIO": {
+      "name": "JOSÉ BONIFACIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "41",
+      "mortes": "1"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "31",
+      "mortes": "4"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "11",
+      "mortes": "1"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "81",
+      "mortes": "1"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "LARANJAL PAULISTA": {
+      "name": "LARANJAL PAULISTA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "83",
+      "mortes": "5"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "25",
+      "mortes": "2"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO SEBASTIÃO": {
+      "name": "SÃO SEBASTIÃO",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "46",
+      "mortes": "3"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SERTÃOZINHO": {
+      "name": "SERTÃOZINHO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "38",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "17",
+      "mortes": "2"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "55",
+      "mortes": "1"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MOCOCA": {
+      "name": "MOCOCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "24",
+      "mortes": "1"
+    },
+    "ELDORADO": {
+      "name": "ELDORADO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "37",
+      "mortes": "1"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "67",
+      "mortes": "5"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "27",
+      "mortes": "1"
+    },
+    "MOGI GUAÇU": {
+      "name": "MOGI GUAÇU",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "TANABI": {
+      "name": "TANABI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "EMBU-GUAÇU": {
+      "name": "EMBU-GUAÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "28",
+      "mortes": "-"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OLÍMPIA": {
+      "name": "OLÍMPIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "17",
+      "mortes": "1"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "107",
+      "mortes": "7"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "3"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PARIQUERA-AÇU": {
+      "name": "PARIQUERA-AÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "GUARAREMA": {
+      "name": "GUARAREMA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARATINGUETÁ": {
+      "name": "GUARATINGUETÁ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "154",
+      "mortes": "11"
+    },
+    "PINDAMONHANGABA": {
+      "name": "PINDAMONHANGABA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PINDORAMA": {
+      "name": "PINDORAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    }
+  },
+  "08/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PRAIA GRANDE": {
+      "name": "PRAIA GRANDE",
+      "confirmados": "12",
+      "mortes": "-"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRESIDENTE PRUDENTE": {
+      "name": "PRESIDENTE PRUDENTE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PRESIDENTE VENCESLAU": {
+      "name": "PRESIDENTE VENCESLAU",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "12",
+      "mortes": "-"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "20",
+      "mortes": "1"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "12",
+      "mortes": "-"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "13",
+      "mortes": "2"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "36",
+      "mortes": "3"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "8",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "20",
+      "mortes": "-"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "AVARÉ": {
+      "name": "AVARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BADY BASSITT": {
+      "name": "BADY BASSITT",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "41",
+      "mortes": "2"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BATATAIS": {
+      "name": "BATATAIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JACAREÍ": {
+      "name": "JACAREÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "29",
+      "mortes": "-"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "8",
+      "mortes": "1"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "113",
+      "mortes": "3"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JALES": {
+      "name": "JALES",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "109",
+      "mortes": "3"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "147",
+      "mortes": "7"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "57",
+      "mortes": "1"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "JOANOPÓLIS": {
+      "name": "JOANOPÓLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "16",
+      "mortes": "2"
+    },
+    "JOSÉ BONIFACIO": {
+      "name": "JOSÉ BONIFACIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "11",
+      "mortes": "1"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "36",
+      "mortes": "1"
+    },
+    "CAÇAPAVA": {
+      "name": "CAÇAPAVA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "LARANJAL PAULISTA": {
+      "name": "LARANJAL PAULISTA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "77",
+      "mortes": "-"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "31",
+      "mortes": "4"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "4947",
+      "mortes": "339"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "72",
+      "mortes": "5"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO SEBASTIÃO": {
+      "name": "SÃO SEBASTIÃO",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "20",
+      "mortes": "2"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "11",
+      "mortes": "-"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "32",
+      "mortes": "-"
+    },
+    "SERTÃOZINHO": {
+      "name": "SERTÃOZINHO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "13",
+      "mortes": "2"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "46",
+      "mortes": "3"
+    },
+    "MOCOCA": {
+      "name": "MOCOCA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "30",
+      "mortes": "-"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "16",
+      "mortes": "1"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "46",
+      "mortes": "1"
+    },
+    "MOGI GUAÇU": {
+      "name": "MOGI GUAÇU",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "59",
+      "mortes": "4"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "TANABI": {
+      "name": "TANABI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "27",
+      "mortes": "1"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "EMBU-GUAÇU": {
+      "name": "EMBU-GUAÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OLÍMPIA": {
+      "name": "OLÍMPIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "26",
+      "mortes": "-"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "99",
+      "mortes": "6"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "PARIQUERA-AÇU": {
+      "name": "PARIQUERA-AÇU",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "16",
+      "mortes": "1"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARAREMA": {
+      "name": "GUARAREMA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "PINDAMONHANGABA": {
+      "name": "PINDAMONHANGABA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "119",
+      "mortes": "7"
+    },
+    "PINDORAMA": {
+      "name": "PINDORAMA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PIRACICABA": {
+      "name": "PIRACICABA",
+      "confirmados": "12",
+      "mortes": "-"
+    }
+  },
+  "07/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "INDAIATUBA": {
+      "name": "INDAIATUBA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "29",
+      "mortes": "2"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "12",
+      "mortes": "1"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "5",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO GRANDE DA SERRA": {
+      "name": "RIO GRANDE DA SERRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARARAS": {
+      "name": "ARARAS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "12",
+      "mortes": "1"
+    },
+    "SALTO": {
+      "name": "SALTO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "6",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "15",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BARRETOS": {
+      "name": "BARRETOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITATIBA": {
+      "name": "ITATIBA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "34",
+      "mortes": "2"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "27",
+      "mortes": "-"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "98",
+      "mortes": "3"
+    },
+    "BEBEDOURO": {
+      "name": "BEBEDOURO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "87",
+      "mortes": "2"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JAGUARIÚNA": {
+      "name": "JAGUARIÚNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "129",
+      "mortes": "6"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "50",
+      "mortes": "1"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRAGANÇA PAULISTA": {
+      "name": "BRAGANÇA PAULISTA",
+      "confirmados": "16",
+      "mortes": "2"
+    },
+    "JOSÉ BONIFÁCIO": {
+      "name": "JOSÉ BONIFÁCIO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "28",
+      "mortes": "1"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "61",
+      "mortes": "-"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "21",
+      "mortes": "4"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "4258",
+      "mortes": "296"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "50",
+      "mortes": "4"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "7",
+      "mortes": "2"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO ROQUE": {
+      "name": "SÃO ROQUE",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "19",
+      "mortes": "1"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO SEBASTIAO": {
+      "name": "SÃO SEBASTIAO",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "CATANDUVA": {
+      "name": "CATANDUVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "28",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "10",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "11",
+      "mortes": "2"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "35",
+      "mortes": "3"
+    },
+    "MOGI GUAÇU": {
+      "name": "MOGI GUAÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SUMARÉ": {
+      "name": "SUMARÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "27",
+      "mortes": "1"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "13",
+      "mortes": "1"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "35",
+      "mortes": "1"
+    },
+    "MONTE ALTO": {
+      "name": "MONTE ALTO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "50",
+      "mortes": "3"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "22",
+      "mortes": "1"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "EMBU GUAÇU": {
+      "name": "EMBU GUAÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "84",
+      "mortes": "4"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "19",
+      "mortes": "-"
+    },
+    "PARIQUERA AÇU": {
+      "name": "PARIQUERA AÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "5",
+      "mortes": "2"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "PERUÍBE": {
+      "name": "PERUÍBE",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PINDAMONHANGABA": {
+      "name": "PINDAMONHANGABA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "PIRACICABA": {
+      "name": "PIRACICABA",
+      "confirmados": "10",
+      "mortes": "-"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "74",
+      "mortes": "7"
+    },
+    "PIRAJUÍ": {
+      "name": "PIRAJUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "6",
+      "mortes": "1"
+    }
+  },
+  "06/04/2020": {
+    "ÁGUAS DE LINDÓIA": {
+      "name": "ÁGUAS DE LINDÓIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "IRACEMÁPOLIS": {
+      "name": "IRACEMÁPOLIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PROMISSÃO": {
+      "name": "PROMISSÃO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "AGUDOS": {
+      "name": "AGUDOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITANHAÉM": {
+      "name": "ITANHAÉM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "RIBEIRÃO PIRES": {
+      "name": "RIBEIRÃO PIRES",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "AMERICANA": {
+      "name": "AMERICANA",
+      "confirmados": "3",
+      "mortes": "2"
+    },
+    "ITAPECERICA DA SERRA": {
+      "name": "ITAPECERICA DA SERRA",
+      "confirmados": "9",
+      "mortes": "1"
+    },
+    "RIBEIRÃO PRETO": {
+      "name": "RIBEIRÃO PRETO",
+      "confirmados": "28",
+      "mortes": "1"
+    },
+    "ARAÇATUBA": {
+      "name": "ARAÇATUBA",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "ITAPETININGA": {
+      "name": "ITAPETININGA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "RIO CLARO": {
+      "name": "RIO CLARO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ARARAQUARA": {
+      "name": "ARARAQUARA",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ITAPEVI": {
+      "name": "ITAPEVI",
+      "confirmados": "11",
+      "mortes": "1"
+    },
+    "SALTO DE PIRAPORA": {
+      "name": "SALTO DE PIRAPORA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ARUJÁ": {
+      "name": "ARUJÁ",
+      "confirmados": "6",
+      "mortes": "1"
+    },
+    "ITAPIRA": {
+      "name": "ITAPIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA BRANCA": {
+      "name": "SANTA BRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ASSIS": {
+      "name": "ASSIS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "ITAQUAQUECETUBA": {
+      "name": "ITAQUAQUECETUBA",
+      "confirmados": "12",
+      "mortes": "-"
+    },
+    "SANTA CRUZ DO RIO PARDO": {
+      "name": "SANTA CRUZ DO RIO PARDO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "ATIBAIA": {
+      "name": "ATIBAIA",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "ITARARÉ": {
+      "name": "ITARARÉ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTA ISABEL": {
+      "name": "SANTA ISABEL",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "BARUERI": {
+      "name": "BARUERI",
+      "confirmados": "31",
+      "mortes": "1"
+    },
+    "ITU": {
+      "name": "ITU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTANA DE PARNAÍBA": {
+      "name": "SANTANA DE PARNAÍBA",
+      "confirmados": "25",
+      "mortes": "-"
+    },
+    "BAURU": {
+      "name": "BAURU",
+      "confirmados": "6",
+      "mortes": "1"
+    },
+    "ITUPEVA": {
+      "name": "ITUPEVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SANTO ANDRÉ": {
+      "name": "SANTO ANDRÉ",
+      "confirmados": "74",
+      "mortes": "3"
+    },
+    "BIRIGUI": {
+      "name": "BIRIGUI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JABOTICABAL": {
+      "name": "JABOTICABAL",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "SANTOS": {
+      "name": "SANTOS",
+      "confirmados": "75",
+      "mortes": "2"
+    },
+    "BOITUVA": {
+      "name": "BOITUVA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JAGUARIUNA": {
+      "name": "JAGUARIUNA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO BERNARDO DO CAMPO": {
+      "name": "SÃO BERNARDO DO CAMPO",
+      "confirmados": "89",
+      "mortes": "5"
+    },
+    "BOTUCATU": {
+      "name": "BOTUCATU",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "JANDIRA": {
+      "name": "JANDIRA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO CAETANO DO SUL": {
+      "name": "SÃO CAETANO DO SUL",
+      "confirmados": "39",
+      "mortes": "1"
+    },
+    "BRODOWSKI": {
+      "name": "BRODOWSKI",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JAÚ": {
+      "name": "JAÚ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO CARLOS": {
+      "name": "SÃO CARLOS",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CACHOEIRA PAULISTA": {
+      "name": "CACHOEIRA PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "JOSÉ BONIFÁCIO": {
+      "name": "JOSÉ BONIFÁCIO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PARDO": {
+      "name": "SÃO JOSÉ DO RIO PARDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CAIEIRAS": {
+      "name": "CAIEIRAS",
+      "confirmados": "22",
+      "mortes": "4"
+    },
+    "JUNDIAÍ": {
+      "name": "JUNDIAÍ",
+      "confirmados": "7",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DO RIO PRETO": {
+      "name": "SÃO JOSÉ DO RIO PRETO",
+      "confirmados": "13",
+      "mortes": "-"
+    },
+    "CAJAMAR": {
+      "name": "CAJAMAR",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "LENÇÓIS PAULISTA": {
+      "name": "LENÇÓIS PAULISTA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO JOSÉ DOS CAMPOS": {
+      "name": "SÃO JOSÉ DOS CAMPOS",
+      "confirmados": "48",
+      "mortes": "-"
+    },
+    "CAMPINAS": {
+      "name": "CAMPINAS",
+      "confirmados": "28",
+      "mortes": "4"
+    },
+    "LIMEIRA": {
+      "name": "LIMEIRA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO MANUEL": {
+      "name": "SÃO MANUEL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CARAGUATATUBA": {
+      "name": "CARAGUATATUBA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "LOUVEIRA": {
+      "name": "LOUVEIRA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO PAULO": {
+      "name": "SÃO PAULO",
+      "confirmados": "3754",
+      "mortes": "244"
+    },
+    "CARAPICUÍBA": {
+      "name": "CARAPICUÍBA",
+      "confirmados": "16",
+      "mortes": "1"
+    },
+    "MAIRIPORÃ": {
+      "name": "MAIRIPORÃ",
+      "confirmados": "6",
+      "mortes": "2"
+    },
+    "SÃO PEDRO": {
+      "name": "SÃO PEDRO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "CEDRAL": {
+      "name": "CEDRAL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "MARÍLIA": {
+      "name": "MARÍLIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SÃO SEBASTIAO": {
+      "name": "SÃO SEBASTIAO",
+      "confirmados": "3",
+      "mortes": "1"
+    },
+    "COTIA": {
+      "name": "COTIA",
+      "confirmados": "31",
+      "mortes": "3"
+    },
+    "MATÃO": {
+      "name": "MATÃO",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "SÃO VICENTE": {
+      "name": "SÃO VICENTE",
+      "confirmados": "6",
+      "mortes": "-"
+    },
+    "CRAVINHOS": {
+      "name": "CRAVINHOS",
+      "confirmados": "2",
+      "mortes": "1"
+    },
+    "MAUÁ": {
+      "name": "MAUÁ",
+      "confirmados": "18",
+      "mortes": "-"
+    },
+    "SOROCABA": {
+      "name": "SOROCABA",
+      "confirmados": "10",
+      "mortes": "2"
+    },
+    "DIADEMA": {
+      "name": "DIADEMA",
+      "confirmados": "25",
+      "mortes": "1"
+    },
+    "MIRASSOL": {
+      "name": "MIRASSOL",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "SUZANO": {
+      "name": "SUZANO",
+      "confirmados": "9",
+      "mortes": "-"
+    },
+    "DRACENA": {
+      "name": "DRACENA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "MOGI DAS CRUZES": {
+      "name": "MOGI DAS CRUZES",
+      "confirmados": "19",
+      "mortes": "1"
+    },
+    "TABOÃO DA SERRA": {
+      "name": "TABOÃO DA SERRA",
+      "confirmados": "45",
+      "mortes": "3"
+    },
+    "EMBU DAS ARTES": {
+      "name": "EMBU DAS ARTES",
+      "confirmados": "20",
+      "mortes": "1"
+    },
+    "MOGI GUAÇU": {
+      "name": "MOGI GUAÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "TATUÍ": {
+      "name": "TATUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "EMBU GUAÇU": {
+      "name": "EMBU GUAÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "NOVA ODESSA": {
+      "name": "NOVA ODESSA",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "TAUBATÉ": {
+      "name": "TAUBATÉ",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "FERRAZ DE VASCONCELOS": {
+      "name": "FERRAZ DE VASCONCELOS",
+      "confirmados": "16",
+      "mortes": "-"
+    },
+    "ORLÂNDIA": {
+      "name": "ORLÂNDIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "TERRA ROXA": {
+      "name": "TERRA ROXA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "FRANCA": {
+      "name": "FRANCA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "OSASCO": {
+      "name": "OSASCO",
+      "confirmados": "71",
+      "mortes": "3"
+    },
+    "VALINHOS": {
+      "name": "VALINHOS",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "FRANCISCO MORATO": {
+      "name": "FRANCISCO MORATO",
+      "confirmados": "8",
+      "mortes": "1"
+    },
+    "PARIQUERA AÇU": {
+      "name": "PARIQUERA AÇU",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "VARGEM GRANDE PAULISTA": {
+      "name": "VARGEM GRANDE PAULISTA",
+      "confirmados": "4",
+      "mortes": "1"
+    },
+    "FRANCO DA ROCHA": {
+      "name": "FRANCO DA ROCHA",
+      "confirmados": "8",
+      "mortes": "1"
+    },
+    "PAULÍNIA": {
+      "name": "PAULÍNIA",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "VINHEDO": {
+      "name": "VINHEDO",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "GUARARAPES": {
+      "name": "GUARARAPES",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "PENÁPOLIS": {
+      "name": "PENÁPOLIS",
+      "confirmados": "1",
+      "mortes": "1"
+    },
+    "VOTORANTIM": {
+      "name": "VOTORANTIM",
+      "confirmados": "2",
+      "mortes": "-"
+    },
+    "GUARUJÁ": {
+      "name": "GUARUJÁ",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "PIRACICABA": {
+      "name": "PIRACICABA",
+      "confirmados": "8",
+      "mortes": "-"
+    },
+    "VOTUPORANGA": {
+      "name": "VOTUPORANGA",
+      "confirmados": "3",
+      "mortes": "-"
+    },
+    "GUARULHOS": {
+      "name": "GUARULHOS",
+      "confirmados": "63",
+      "mortes": "6"
+    },
+    "PIRAJUÍ": {
+      "name": "PIRAJUÍ",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "HORTOLÂNDIA": {
+      "name": "HORTOLÂNDIA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "POÁ": {
+      "name": "POÁ",
+      "confirmados": "4",
+      "mortes": "-"
+    },
+    "ILHA COMPRIDA": {
+      "name": "ILHA COMPRIDA",
+      "confirmados": "1",
+      "mortes": "-"
+    },
+    "PRAIA GRNADE": {
+      "name": "PRAIA GRNADE",
+      "confirmados": "4",
+      "mortes": "-"
+    }
+  }
+}
