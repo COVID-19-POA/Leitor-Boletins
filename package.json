@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdfjs-dist": "^2.3.200"
+    "pdfjs-dist": "^2.16.105"
   }
 }
